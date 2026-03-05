@@ -1,0 +1,43 @@
+{
+  "theme": "dark",
+  "last_input_dir": "/Volumes/NO NAME",
+  "last_output_dir": "/Users/saurabhgautam/Desktop",
+  "noise_strength": 3.0,
+  "attack_ms": 125,
+  "release_ms": 200,
+  "smoothing_factor": 0.95,
+  "fft_size": 2048,
+  "hop_length": 512,
+  "threshold_db": -40.0,
+  "output_quality": "high",
+  "sample_rate": 44100,
+  "presets": {
+    "Gentle": {
+      "noise_strength": 1.2,
+      "attack_ms": 5,
+      "release_ms": 60,
+      "smoothing_factor": 0.3,
+      "fft_size": "2048",
+      "hop_length": "512",
+      "preserve_harmonics": true
+    },
+    "Aggressive": {
+      "noise_strength": 2.5,
+      "attack_ms": 20,
+      "release_ms": 200,
+      "smoothing_factor": 0.7,
+      "fft_size": "4096",
+      "hop_length": "512",
+      "preserve_harmonics": true
+    },
+    "Voice Clarity": {
+      "noise_strength": 1.8,
+      "attack_ms": 8,
+      "release_ms": 120,
+      "smoothing_factor": 0.55,
+      "fft_size": "2048",
+      "hop_length": "256",
+      "preserve_harmonics": true
+    }
+  }
+}

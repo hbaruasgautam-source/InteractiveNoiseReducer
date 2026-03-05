@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+
+# Build files
+build/
+dist/
+*.spec
+
+# Logs
+logs/
+
+# Mac
+.DS_Store

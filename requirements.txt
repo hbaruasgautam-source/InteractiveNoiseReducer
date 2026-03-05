@@ -1,0 +1,21 @@
+# InteractiveNoiseReducer — Python Dependencies
+# Python 3.10+ required
+
+# ── Core audio processing ────────────────────────────────────
+librosa>=0.10.1
+numpy>=1.24.0
+scipy>=1.11.0
+soundfile>=0.12.1
+audioread>=3.0.0
+
+# ── GUI framework ────────────────────────────────────────────
+PyQt6>=6.5.0
+PyQt6-Qt6>=6.5.0
+PyQt6-sip>=13.5.0
+pyqtgraph>=0.13.3
+
+# ── Audio playback ───────────────────────────────────────────
+sounddevice>=0.4.6
+
+# ── Utilities ────────────────────────────────────────────────
+# (FFmpeg must be installed separately — see README)
