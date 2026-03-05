@@ -367,5 +367,9 @@ Cleaned Audio (float32)
 ```
 
 ---
+## Download
 
+Download the latest version:
+
+https://github.com/hbaruasgautam-source/InteractiveNoiseReducer/releases
 *Built with Python · PyQt6 · Librosa · NumPy · SciPy · FFmpeg*
